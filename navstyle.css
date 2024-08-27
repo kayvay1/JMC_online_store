@@ -144,6 +144,7 @@ a{
   }
 
   #menu {
+      overflow-x: hidden;
     position: relative;
     float: left;
     width: 100%;

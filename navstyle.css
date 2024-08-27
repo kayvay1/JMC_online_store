@@ -1,6 +1,7 @@
 
 header{
     width: 100%;
+    overflow-x: hidden;
 }
 
 /* nav up starat  */

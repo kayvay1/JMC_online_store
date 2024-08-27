@@ -1,6 +1,6 @@
 .sidecartsection{
     display: none;
-    overflow: hidden;
+    overflow-x: hidden;
     width: 100%;
     height: 100%;
     background-color: rgba(27, 27, 27, 0.788);
